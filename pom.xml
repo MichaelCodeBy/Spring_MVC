@@ -12,6 +12,8 @@
 
   <properties>
     <spring.version>6.0.7</spring.version>
+    <maven.compiler.source>19</maven.compiler.source>
+    <maven.compiler.target>19</maven.compiler.target>
     <!--глобальная переменная версии спринг используется по такому типу - ${spring.version}-->
   </properties>>
   <dependencies>
