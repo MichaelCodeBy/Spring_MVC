@@ -12,6 +12,7 @@
 
   <properties>
     <spring.version>6.0.7</spring.version>
+    <!--глобальная переменная версии спринг используется по такому типу - ${spring.version}-->
   </properties>>
   <dependencies>
     <dependency>
